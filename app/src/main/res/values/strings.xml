@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoList MVP</string>
+    <string name="item_note">Lorem Ispum</string>
+</resources>
